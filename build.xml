@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="lab7a" default="test">
+<project name="lab-abstraction-AndNotOr" default="test">
 
     <property name="main.build.dir" value="out/production"/>
     <property name="main.src.dir" value="src"/>
