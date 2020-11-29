@@ -1,5 +1,0 @@
-language: java
-jdk:
-  - openjdk10
-before_script:
-  - sudo apt-get install ant-optional
